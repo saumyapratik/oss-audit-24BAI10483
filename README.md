@@ -45,8 +45,8 @@ oss-audit-24BAI10483/
 │
 ├── script1_system_identity.sh
 ├── script2_package_inspector.sh
-├── script3_disk_permission_auditor.sh
-├── script4_log_file_analyzer.sh
-├── script5_manifesto_generator.sh
+├── script3_log_analyzer.sh
+├── script4_log_analyzer.sh
+├── script5_log_analyzer.sh
 ├── README.md
 └── report.pdf
